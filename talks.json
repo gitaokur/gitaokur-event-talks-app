@@ -1,0 +1,45 @@
+
+[
+  {
+    "title": "The Future of Frontend: A Deep Dive into WebAssembly",
+    "speakers": ["Alex Chen"],
+    "categories": ["Frontend", "WebAssembly", "Performance"],
+    "duration": 60,
+    "description": "Explore the potential of WebAssembly to revolutionize web development, enabling near-native performance for complex applications in the browser."
+  },
+  {
+    "title": "Building Scalable and Resilient Microservices with gRPC",
+    "speakers": ["Maria Garcia", "David Kim"],
+    "categories": ["Backend", "Microservices", "gRPC"],
+    "duration": 60,
+    "description": "Learn how to design and implement high-performance microservices using gRPC, with a focus on scalability, resilience, and real-world best practices."
+  },
+  {
+    "title": "Mastering DevOps: CI/CD Pipelines for Modern Applications",
+    "speakers": ["John Smith"],
+    "categories": ["DevOps", "CI/CD", "Kubernetes"],
+    "duration": 60,
+    "description": "A comprehensive guide to building and managing automated CI/CD pipelines for deploying applications to Kubernetes with confidence."
+  },
+  {
+    "title": "The Art of Prompt Engineering for Generative AI",
+    "speakers": ["Emily White"],
+    "categories": ["AI", "Machine Learning", "Generative AI"],
+    "duration": 60,
+    "description": "Discover the techniques and strategies behind effective prompt engineering to get the most out of large language models and other generative AI tools."
+  },
+  {
+    "title": "Cybersecurity in the Cloud-Native Era",
+    "speakers": ["Michael Brown", "Sarah Jones"],
+    "categories": ["Security", "Cloud", "Cybersecurity"],
+    "duration": 60,
+    "description": "An in-depth look at the unique security challenges of cloud-native applications and how to build a robust security posture in a containerized world."
+  },
+  {
+    "title": "Data-Driven Decisions: A Guide to Modern Data Engineering",
+    "speakers": ["Chris Green"],
+    "categories": ["Data", "Data Engineering", "Analytics"],
+    "duration": 60,
+    "description": "Learn the fundamentals of modern data engineering, from building data pipelines to designing data warehouses for effective analytics and decision-making."
+  }
+]

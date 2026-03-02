@@ -1,0 +1,28 @@
+
+# Generic ignores
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Node.js ignores (if applicable for future expansion)
+node_modules/
+npm-debug.log
+.env
+.idea/
+
+# Gemini CLI specific ignores
+.gemini/
